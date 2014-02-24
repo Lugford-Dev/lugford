@@ -1,0 +1,11 @@
+IFID: 37E07578-B247-4E45-B3DD-B31F0B5DEF9A
+Name: Lugford
+Byline: by Yash Tulsyan
+AuthorEmail: Yash Tulsyan <yashtulsyan@gmail.com>
+Desc: Example
+Version: 0
+ReleaseDate: 2014-02-19
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
